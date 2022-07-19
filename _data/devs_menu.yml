@@ -1,0 +1,17 @@
+- label: Frontend
+  items:
+    - name: Developpement
+      link: /devs/
+    - name: Sécurité
+      link: /security/
+    - name: Finance
+      link: /finance/
+
+- label: Backend
+  items:
+    - name: Developpement
+      link: /devs/
+    - name: Sécurité
+      link: /security/
+    - name: Finance
+      link: /finance/

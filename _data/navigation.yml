@@ -1,0 +1,13 @@
+- name: Blog
+  link: /blog/
+- name: About
+  link: /about/
+- name: Docs
+  link: /docs/
+  dropdown: 
+    - name: Developpement
+      link: /devs/
+    - name: Sécurité
+      link: /security/
+    - name: Finance
+      link: /finance/
